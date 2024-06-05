@@ -1054,7 +1054,6 @@ import {
     Column,
     PrimaryGeneratedColumn,
     OneToMany,
-    JoinColumn,
 } from "typeorm"
 import { Photo } from "./Photo"
 
